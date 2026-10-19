@@ -41,7 +41,7 @@ Set the environment variable `LDAM_BASE` to your local data directory before run
 
 ## Citation
 
-If you use this code, please cite the manuscript (citation details will be added upon publication).
+If you use this code, please cite the manuscript (citation details will be added upon publication).[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23480511.svg)](https://doi.org/10.5281/zenodo.23480511)
 
 ## License
 
